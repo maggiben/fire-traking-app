@@ -2,12 +2,13 @@
     "records": [
         {
             "attributes": {
-                "type": "Bear__c",
-                "referenceId": "Bear__cRef1"
+                "type": "Fire__c",
+                "referenceId": "Fire__cRef1"
             },
             "Name": "Cindy",
             "Birthdate__c": "2013-12-23",
             "Sex__c": "Female",
+            "Radius": 12500,
             "Height__c": 201,
             "Weight__c": 269,
             "Location__Latitude__s": 45.34276,
@@ -17,12 +18,13 @@
         },
         {
             "attributes": {
-                "type": "Bear__c",
-                "referenceId": "Bear__cRef2"
+                "type": "Fire__c",
+                "referenceId": "Fire__cRef2"
             },
             "Name": "Little John",
             "Birthdate__c": "2005-07-18",
             "Sex__c": "Male",
+            "Radius": 2500,
             "Height__c": 209,
             "Weight__c": 278,
             "Location__Latitude__s": 45.382705,
@@ -32,12 +34,13 @@
         },
         {
             "attributes": {
-                "type": "Bear__c",
-                "referenceId": "Bear__cRef3"
+                "type": "Fire__c",
+                "referenceId": "Fire__cRef3"
             },
             "Name": "Winnie",
             "Birthdate__c": "2014-05-06",
             "Sex__c": "Male",
+            "Radius": 3500,
             "Height__c": 204,
             "Weight__c": 293,
             "Location__Latitude__s": 45.392717,
@@ -47,12 +50,13 @@
         },
         {
             "attributes": {
-                "type": "Bear__c",
-                "referenceId": "Bear__cRef4"
+                "type": "Fire__c",
+                "referenceId": "Fire__cRef4"
             },
             "Name": "Flippy",
             "Birthdate__c": "2003-12-03",
             "Sex__c": "Male",
+            "Radius": 100,
             "Height__c": 221,
             "Weight__c": 317,
             "Location__Latitude__s": 45.372741,
@@ -62,12 +66,13 @@
         },
         {
             "attributes": {
-                "type": "Bear__c",
-                "referenceId": "Bear__cRef5"
+                "type": "Fire__c",
+                "referenceId": "Fire__cRef5"
             },
             "Name": "Oxsana",
             "Birthdate__c": "2006-05-17",
             "Sex__c": "Female",
+            "Radius": 22500,
             "Height__c": 202,
             "Weight__c": 276,
             "Location__Latitude__s": 45.30276,
@@ -77,12 +82,13 @@
         },
         {
             "attributes": {
-                "type": "Bear__c",
-                "referenceId": "Bear__cRef6"
+                "type": "Fire__c",
+                "referenceId": "Fire__cRef6"
             },
             "Name": "Baloo",
             "Birthdate__c": "2001-11-19",
             "Sex__c": "Male",
+            "Radius": 32500,
             "Height__c": 215,
             "Weight__c": 326,
             "Location__Latitude__s": 45.342761,
@@ -92,12 +98,13 @@
         },
         {
             "attributes": {
-                "type": "Bear__c",
-                "referenceId": "Bear__cRef7"
+                "type": "Fire__c",
+                "referenceId": "Fire__cRef7"
             },
             "Name": "Ulfsaar",
             "Birthdate__c": "2011-01-08",
             "Sex__c": "Female",
+            "Radius": 2500,
             "Height__c": 210,
             "Weight__c": 287,
             "Location__Latitude__s": 45.382721,
@@ -107,12 +114,13 @@
         },
         {
             "attributes": {
-                "type": "Bear__c",
-                "referenceId": "Bear__cRef8"
+                "type": "Fire__c",
+                "referenceId": "Fire__cRef8"
             },
             "Name": "Po Ping",
             "Birthdate__c": "2004-10-04",
             "Sex__c": "Male",
+            "Radius": 12500,
             "Height__c": 217,
             "Weight__c": 317,
             "Location__Latitude__s": 45.372708,
@@ -122,12 +130,13 @@
         },
         {
             "attributes": {
-                "type": "Bear__c",
-                "referenceId": "Bear__cRef9"
+                "type": "Fire__c",
+                "referenceId": "Fire__cRef9"
             },
             "Name": "Ungnyeo",
             "Birthdate__c": "2003-06-27",
             "Sex__c": "Female",
+            "Radius": 42500,
             "Height__c": 202,
             "Weight__c": 259,
             "Location__Latitude__s": 45.365702,
@@ -137,12 +146,13 @@
         },
         {
             "attributes": {
-                "type": "Bear__c",
-                "referenceId": "Bear__cRef10"
+                "type": "Fire__c",
+                "referenceId": "Fire__cRef10"
             },
             "Name": "Ted",
             "Birthdate__c": "2011-02-04",
             "Sex__c": "Male",
+            "Radius": 62500,
             "Height__c": 208,
             "Weight__c": 279,
             "Location__Latitude__s": 45.332761,

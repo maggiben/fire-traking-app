@@ -2,7 +2,7 @@
     "name": "build-apps-with-lwc",
     "private": true,
     "version": "1.0.0",
-    "description": "Ursus Park sample app for Trailhead project Build Flexible Apps with Lightning Web Components",
+    "description": "Park Rangers fire tracking Built with Lightning Web Components",
     "engines": {
         "node": ">= 10.13.0",
         "npm": ">= 6.5.0"
@@ -17,7 +17,7 @@
         "prettier": "prettier --write '**/*.{cls,cmp,component,css,html,js,json,md,page,trigger,yaml,yml}'",
         "prettier:verify": "prettier --list-different '**/*.{cls,cmp,component,css,html,js,json,md,page,trigger,yaml,yml}'"
     },
-    "author": "Philippe Ozil",
+    "author": "Benjamin Maggi",
     "devDependencies": {
         "@salesforce/eslint-config-lwc": "^0.7.0",
         "@salesforce/sfdx-lwc-jest": "^0.9.2",
@@ -28,6 +28,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/trailheadapps/build-apps-with-lwc"
+        "url": "git@github.com:maggiben/fire-traking-app.git"
     }
 }
